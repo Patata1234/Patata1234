@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <img src='<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>'>
+  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZiczl0bG82YmFjbWttamplNHUxb2g2ZmM4YWRqZHptZDJjMXh4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif' width='500'>
   <h1>Hey 🖐🏻, I'm! Juan</h1>
   <h1>🚀 Aspiring Fullstack Developer | 🌱 Passionate Learner | 💻 Open Source Enthusiast</h1>
   <a href='https://twitter.com/juandav76353301'><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjuandav76353301&style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&labelColor=black&color=%231C00ff00"></a>
