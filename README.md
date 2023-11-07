@@ -1,6 +1,6 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZiczl0bG82YmFjbWttamplNHUxb2g2ZmM4YWRqZHptZDJjMXh4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif' width='300'>
-  <h1>Hey 🖐🏻, I'm! Juan</h1>
+  <h1>Hey 🖐🏻 I'm Juan!</h1>
   <h1>🚀 Aspiring Fullstack Developer | 🌱 Passionate Learner | 💻 Open Source Enthusiast</h1>
 </div>
 
