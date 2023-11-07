@@ -5,12 +5,12 @@
 </div>
 
 <div id='badge' align='center'>
-        <a href='https://www.linkedin.com/in/juan-fierro-/'>
-  <img src='<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-fierro-%2F&style=for-the-badge&logo=Linkedin&logoColor=white&label=Linkedin&labelColor=blue&color=%231C00ff00">
-'>
-    <a href='https://twitter.com/juandav76353301' target='_blank'><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjuandav76353301&style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&labelColor=black&color=%231C00ff00"></a>
+  <a href='https://twitter.com/juandav76353301' target='_blank'><img alt="X (formerly Twitter) URL"     src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjuandav76353301&style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&labelColor=black&color=%231C00ff00"></a>
   
-  </a>
+  <a href='https://www.linkedin.com/in/juan-fierro-/' target='_blank' alt='Linkedin (formerly Linkedin) URL'>
+  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-fierro-%2F&style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=blue&color=%231C00ff00">
+
+</a>
   
 </div>
 
